@@ -1,0 +1,52 @@
+body
+{
+	background-image: url(image.jpg);
+	background-repeat:no-repeat; 
+	background-size: cover;
+	align-items: left;
+}
+div.div1
+{
+	float: left;
+	align-content: center;
+	height: 350px;
+	width: 610px;
+	background:rgba(0,0,0,0.5); 
+	position: relative;
+	top:100px;
+	left: 40px;
+	size: 30px;
+	color: red;
+}
+
+
+button.b1
+{
+	position: relative;
+	height: 40px;
+	width: 200px;
+	top: 50px;
+	left: -570px;
+	color: white;
+	background-color: rgba(0,0,0,0.5);
+	outline: none;
+	border: none;
+}
+button.b1:hover
+{
+	position: relative;
+	height: 40px;
+	width: 200px;
+	top: 50px;
+	left: -570px;
+	color: white;
+	background-color: rgba(0,0,0,0.5);
+	outline: none;
+	border: white solid;
+}
+div.div3
+{
+	position: relative;
+	top: 50px;
+	left: 70px;
+}
